@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/CrudReactApp/static/css/main.31bf965a.css",
+    "main.js": "/CrudReactApp/static/js/main.ae28ed08.js",
+    "static/js/453.5e698cb4.chunk.js": "/CrudReactApp/static/js/453.5e698cb4.chunk.js",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/CrudReactApp/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/fontawesome-webfont.eot": "/CrudReactApp/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/CrudReactApp/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/CrudReactApp/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/CrudReactApp/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "index.html": "/CrudReactApp/index.html",
+    "main.31bf965a.css.map": "/CrudReactApp/static/css/main.31bf965a.css.map",
+    "main.ae28ed08.js.map": "/CrudReactApp/static/js/main.ae28ed08.js.map",
+    "453.5e698cb4.chunk.js.map": "/CrudReactApp/static/js/453.5e698cb4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31bf965a.css",
+    "static/js/main.ae28ed08.js"
+  ]
+}
